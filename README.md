@@ -4,7 +4,7 @@ Bienvenido al GitHub de Adrián👋
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/adrian-gonzález-aldana-692421241)
 
-#### Actualmente me encuentro la etapa de crecimiento  y expereincia laboral. Mis área s de interes son el desarrollo web, tanto del lado del Back end como del Front end, De iggual manera tenggo conociemiento en diseño y manejo de BD
+#### Actualmente me encuentro la etapa de crecimiento  y expereincia laboral. Mis área s de interes son el desarrollo web, tanto del lado del Back end como del Front end, De igual manera tengo conociemiento en diseño y manejo de BD y patrones de diseño.
 
 ### Skills
 
